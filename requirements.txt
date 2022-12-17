@@ -1,5 +1,3 @@
 aiogram
 datetime
 pymysql
-random
-shutil
