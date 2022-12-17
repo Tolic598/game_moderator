@@ -1,0 +1,7 @@
+AsyncIOScheduler
+aiogram
+datetime
+pymysql
+random
+shutil
+apscheduler.schedulers.asyncio
